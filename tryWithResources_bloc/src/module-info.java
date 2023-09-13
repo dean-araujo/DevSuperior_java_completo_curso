@@ -1,0 +1,2 @@
+module bloco_tryWithResources {
+}

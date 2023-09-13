@@ -1,0 +1,2 @@
+module exception_class {
+}
