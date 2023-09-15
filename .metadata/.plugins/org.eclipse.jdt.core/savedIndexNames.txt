@@ -3,5 +3,9 @@ INDEX VERSION 1.134+C:\temp\ws-eclipse\DevSuperior_java_completo_curso\.metadata
 3846232754.index
 4157052139.index
 1397902862.index
+3252135826.index
+4034196786.index
+2686220555.index
+3177684010.index
 2334382675.index
 1865797976.index
